@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "oscar_chris_test_mod:item/sapphire_staff"
+  }
+}
